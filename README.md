@@ -1,6 +1,6 @@
-  # 🧠 Smart Money Trading Engine (SMTE)
+<img src="https://github.com/variableSoup/Government-Insider-Trading/blob/main/images/google-cloud-seeklogo.png" alt="Description" width="150" height="150">  
 
-![Google Cloud](https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_logo.png)
+# 🧠 Smart Money Trading Engine (SMTE) 
 
 > 🎯 **A personal Google Cloud project to showcase cloud data pipelines, Machine Learning, and AI prompt injection — using real insider government trading data.**
 
