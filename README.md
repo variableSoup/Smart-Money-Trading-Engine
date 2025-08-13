@@ -1,4 +1,4 @@
-<img src="https://github.com/variableSoup/Government-Insider-Trading/blob/main/images/google-cloud-seeklogo.png" alt="Description" width="150" height="150">  
+<img src="https://github.com/variableSoup/Government-Insider-Trading/blob/main/images/google-cloud-seeklogo.png" alt="Description" width="150" height="150"> <img src="https://github.com/variableSoup/Government-Insider-Trading/blob/main/images/meta-icon-new-facebook-2021-seeklogo.png" align="right" alt="Description" width="150" height="150">
 
 # 🧠 Smart Money Trading Engine (SMTE) 
 
