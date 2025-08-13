@@ -1,4 +1,4 @@
-# 🧠 Government Insider Trading Engine (GITE)
+  # 🧠 Smart Money Trading Engine (SMTE)
 
 ![Google Cloud](https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_logo.png)
 
@@ -8,9 +8,9 @@
 
 ## 👋 What’s This All About?
 
-This is **GITE**, a solo-built project that:
+This is **SMTE**, a solo-built project that:
 
-- 🏛️ Ingests insider government trades (yes, from Congress!) using the **Quiver API**
+- 🏛️ Ingests insider government trades (yes, even from Congress!) using the **Quiver API**
 - ☁️ Uses **BigQuery** and **Machine Learning** on **Google Cloud** to transform and analyze that data
 - 📊 Engineers features and insights from the raw data to make it actually useful
 - 🧠 Ability to summarize into a **language model (LLM)** that interprets the data in plain English
