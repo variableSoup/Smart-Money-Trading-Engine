@@ -74,3 +74,6 @@ Every weekday:
 
 After the pipeline finishes, an LLM receives prompts like:
 
+
+<img src="https://github.com/variableSoup/Smart-Money-Trading-Engine/blob/main/images/Screenshot%202025-08-13%20165550.png" alt="Description">
+
