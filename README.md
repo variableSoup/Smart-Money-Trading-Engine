@@ -72,7 +72,7 @@ Every weekday:
 
 ## 💬 Example Use Case
 
-After the pipeline finishes, an LLM receives prompts like:
+After the pipeline finishes, an LLM prompt can be injected with data like:
 
 
 <img src="https://github.com/variableSoup/Smart-Money-Trading-Engine/blob/main/images/Screenshot%202025-08-13%20165550.png" alt="Description">
