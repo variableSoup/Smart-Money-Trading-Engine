@@ -23,14 +23,14 @@ This is **SMTE**, a solo-built project that:
 
 Every weekday:
 
-✅ Pulls fresh insider trading data from QuiverQuant (Congress, Senate, House)
-✅ Pulls fresh offexchange + market data from all sectors from QuiverQuant (Real Estate, Financial, Tech) to enrich our trading data
+✅ Pulls fresh insider trading data from QuiverQuant combined with offexchange + market data from all sectors for enrichment \
 ✅ Stores and queries the data using BigQuery  
 ✅ Applies basic ML logic to extract sentiment and trends (e.g. "sector X is being heavily bought")  
 ✅ Generates engineered views like:
-- Net flow by sector
-- Most active tickers
-- Trade volume by political party  
+  - Net flow by sector
+  - Most active tickers
+  - Trade volume by political party
+
 ✅ Can also inject all that context into a prompt-ready format so your LLM can interpret it however you want
 
 ---
