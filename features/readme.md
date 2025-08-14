@@ -25,3 +25,4 @@ We take the clean, staged data and generate new **features** that help models an
 
 ## ✅ Example Features
 
+<img src="https://github.com/variableSoup/Smart-Money-Trading-Engine/blob/main/images/Screenshot%202025-08-14%20071601.png" alt="Description">
