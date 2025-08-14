@@ -19,8 +19,8 @@ We take structured `.ndjson` files (from the extraction phase) and:
 ## 🛠️ What This Includes
 
 - `create_staging_tables.sql` – SQL to define external tables from GCS `.ndjson` files  
-- `schema_map.json` – defines field types and standard naming conventions  
-- Optional: simple transformations using SQL Views or temporary materializations
+- `schema_map` – defines field types and standard naming conventions  
+- simple transformations using SQL Views or temporary materializations
 
 ---
 
@@ -38,3 +38,4 @@ By isolating raw → staged data, we can:
 
 - Staging tables in BigQuery, such as:
 
+<img src="https://github.com/variableSoup/Smart-Money-Trading-Engine/blob/main/images/Screenshot%202025-08-14%20062411.png" alt="Description">
